@@ -13,6 +13,7 @@ Common vacuum furnace equipment includes:
 
 ## What is a vacuum brazing furnace:
 
+Learn the full technical explanation here:
 https://brofurnaces.com/wiki/vacuum-brazing-furnace-complete-guide.html
 
 ## Vacuum Induction Melting Furnace (VIM)
